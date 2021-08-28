@@ -1,0 +1,37 @@
+.list-Item {
+  border: 1px solid #b5b7c4;
+  border-radius: 8px;
+  width: 30%;
+  height: 100px;
+  line-height: 4px;
+  padding-top: 10px;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+
+.sub-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.star-image {
+  height: 30px;
+  width: 28px;
+}
+
+.treatment {
+  color: #171f46;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.timing {
+  font-size: 12px;
+}
+
+.toggle-button {
+  background-color: transparent;
+  border: 0px;
+}
